@@ -2,12 +2,12 @@
 // 	IMAGINE studentData = {name: studentName, score: studentScore, class: className}
 // 	DECLARE result AS OBJECT
 // 	DECLARE KKM WITH constant(75)
-// 	   FOR student OF students
-//         { name, score, class: className } = student
-//         IF result[className] IS EMPTY
-//             result[className] = []
-//         IF score > 75
-//             {name, score} PUSH TO result[className]
+// 		FOR student OF students
+// 			{ name, score, class: className } = student
+// 			IF result[className] IS EMPTY
+// 				result[className] = []
+// 			IF score > 75
+// 				{name, score} PUSH TO result[className]
 
 function graduates(students) {
     // Code disini
