@@ -1,7 +1,7 @@
 // FUNCTION graduates(studentData)
-// 	   IMAGINE studentData = {name: studentName, score: studentScore, class: className}
+// 	IMAGINE studentData = {name: studentName, score: studentScore, class: className}
 //     DECLARE result AS OBJECT
-// 	   DECLARE KKM WITH constant(75)
+// 	DECLARE KKM WITH constant(75)
 // 	   FOR student OF students
 //         { name, score, class: className } = student
 //         IF result[className] IS EMPTY
