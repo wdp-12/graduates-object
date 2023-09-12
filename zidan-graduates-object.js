@@ -1,6 +1,6 @@
 // FUNCTION graduates(studentData)
 // 	IMAGINE studentData = {name: studentName, score: studentScore, class: className}
-//     DECLARE result AS OBJECT
+// 	DECLARE result AS OBJECT
 // 	DECLARE KKM WITH constant(75)
 // 	   FOR student OF students
 //         { name, score, class: className } = student
